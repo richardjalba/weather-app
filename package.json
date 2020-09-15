@@ -1,0 +1,24 @@
+{
+  "name": "weather-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardjalba/weather-app.git"
+  },
+  "author": "Richard Alba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardjalba/weather-app/issues"
+  },
+  "homepage": "https://github.com/richardjalba/weather-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "node": "^14.10.1"
+  }
+}
